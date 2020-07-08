@@ -6,6 +6,7 @@ Follow-up: what if you can't use division?*/
 
 
 //This is asloution with time complexity o(3n)
+//space complexity O(2n)
 
 import java.util.*;
 import java.lang.*;
